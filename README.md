@@ -21,7 +21,7 @@ I've been working since summer 2022 for Data Players, a french company specializ
 
 <div align="center">
 
-[![My Personal Website](https://custom-icon-badges.demolab.com/badge/www.test.com-gold?style=for-the-badge&logo=globe&logoColor=black)](https://test.com)
+[![My portfolio](https://custom-icon-badges.demolab.com/badge/www.test.com-gold?style=for-the-badge&logo=globe&logoColor=black)](https://mikoteko.github.io/portfolio/)
 
 </div>
 
