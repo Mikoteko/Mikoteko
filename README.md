@@ -4,11 +4,8 @@
 <h1 align="center"> Hi! I'm Emilie 👋</h1>
 </br>
 
-I'm a young data engineer/developper.
-I'm currently studying for a computer engineering degree in France ! 
+I'm an AI/data engineer.
 I specialize in data processing, AI and Machine Learning.
-
-I've been working since summer 2022 for Data Players, a french company specializing in semantic web & data processing (using an open-source software : the Semantic Bus).
 
 - Readme inspired by [Saurabh Rai's Readme](https://github.com/srbhr) ✨
 - Github Stats by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) ✨
